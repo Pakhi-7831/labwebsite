@@ -1,34 +1,50 @@
 [
   {
-    "description": "<span class=\"font-montserrat font-bold\">Bioactive Molecules from Lignocellulose-derived Platform Chemicals</span><br><small><em>G. Qiang, M. F. Ansari, Z. Sun,* and S. Elangovan*</em></small><br><small>Adv. Syn. Catal. 2024, DOI: 10.1002/adsc.202401046</small>",
-    "link": ""
-  },
- {
-    "description": "<span class=\"font-montserrat font-bold\">From lignin-derived monomers to 1,4-cyclohexanediol via a two steps Dakin oxidation and hydrodeoxygenation reaction</span><br><small><em>Z. H. Zhang, M. J. Song, S. Elangovan, Z. Sun*, T. Q. Yuan*</em></small><br><small>Catalysis Today, 2024, 115079.</small>",
-    "link": ""
-  },
-  {
-    "description": "<span class=\"font-montserrat font-bold\" style=\"color:gold\">Heterogeneously catalyzed reductive depolymerization of lignin to value-added chemicals</span><br><small><em>Z. Yu, W. Kong, W. Liang, Y. Guo, J. Cui, Y. Hu, Z. Sun, S. Elangovan, F. Xu</em></small><br><small>ChemSusChem, 2024, e202401399.</small>",
+    "title": "Bioactive Molecules from Lignocellulose-derived Platform Chemicals",
+    "authors": "G. Qiang, M. F. Ansari, Z. Sun,* and S. Elangovan*",
+    "journal": "Adv. Syn. Catal. 2024",
     "link": ""
   },
   {
-    "description": "<span class=\"font-montserrat font-bold\" style=\"color:gold\">Recyclable bio–based epoxy resin thermoset polymer from wood for circular economy</span><br><small><em>B. Zhang, S. Elangovan, Z. Sun*</em></small><br><small>Green Energy & Environment, 2024,</small>",
+    "title": "From lignin-derived monomers to 1,4-cyclohexanediol via a two steps Dakin oxidation and hydrodeoxygenation reaction",
+    "authors": "Z. H. Zhang, M. J. Song, S. Elangovan, Z. Sun*, T. Q. Yuan*",
+    "journal": "Catalysis Today, 2024, 115079",
+    "link": ""
+  },
+  {
+    "title": "Heterogeneously catalyzed reductive depolymerization of lignin to value-added chemicals",
+    "authors": "Z. Yu, W. Kong, W. Liang, Y. Guo, J. Cui, Y. Hu, Z. Sun, S. Elangovan, F. Xu",
+    "journal": "ChemSusChem, 2024, e202401399",
+    "link": ""
+  },
+  {
+    "title": "Recyclable bio–based epoxy resin thermoset polymer from wood for circular economy",
+    "authors": "B. Zhang, S. Elangovan, Z. Sun*",
+    "journal": "Green Energy & Environment, 2024",
     "link": "https://doi.org/10.1016/j.gee.2024.08.007"
   },
- {
-    "description": "<span class=\"font-montserrat font-bold\" style=\"color:gold\">Synthesis of a Cationic Cobalt–Selenolate Complex for Cooperative Sn–H Bond Activation: Solvent-Dependent Stereoselectivity in Alkyne Hydrostannylation</span><br><small><em>S. Elangovan, T. Randt, E. Irran, H. F. T. Klare*, M. Oestreich*</em></small><br><small>Organometallics 2024, 43, 1619–1624.</small>",
+  {
+    "title": "Synthesis of a Cationic Cobalt–Selenolate Complex for Cooperative Sn–H Bond Activation: Solvent-Dependent Stereoselectivity in Alkyne Hydrostannylation",
+    "authors": "S. Elangovan, T. Randt, E. Irran, H. F. T. Klare*, M. Oestreich*",
+    "journal": "Organometallics 2024, 43, 1619–1624",
     "link": ""
   },
   {
-    "description": "<span class=\"font-montserrat font-bold\" style=\"color:gold\">Manganese Catalyzed C–C and C–N Bond Formation with Alcohols via Borrowing Hydrogen or Hydrogen Auto-transfer</span><br><small><em>M. F. Ansari, A. K. Maurya, A. Kumar, S. Elangovan,*</em></small><br><small>Beilstein J. Org. Chem. 2024, 20, 1111–1166.</small>",
+    "title": "Manganese Catalyzed C–C and C–N Bond Formation with Alcohols via Borrowing Hydrogen or Hydrogen Auto-transfer",
+    "authors": "M. F. Ansari, A. K. Maurya, A. Kumar, S. Elangovan,*",
+    "journal": "Beilstein J. Org. Chem. 2024, 20, 1111–1166",
     "link": ""
   },
   {
-    "description": "<span class=\"font-montserrat font-bold\" style=\"color:gold\">Transition-Metal-Catalysed Transfer Hydrogenation Reactions with Glycerol and Carbohydrates as Hydrogen Donors</span><br><small><em>M. F. Ansari, Anshika, J-B Sortais,* S. Elangovan,*</em></small><br><small>Eur. J. Org. Chem. 2024,</small>",
+    "title": "Transition-Metal-Catalysed Transfer Hydrogenation Reactions with Glycerol and Carbohydrates as Hydrogen Donors",
+    "authors": "M. F. Ansari, Anshika, J-B Sortais,* S. Elangovan,*",
+    "journal": "Eur. J. Org. Chem. 2024",
     "link": "https://doi.org/10.1002/ejoc.202301278"
   },
   {
-    "description": "<span class=\"font-montserrat font-bold\" style=\"color:gold\">Bioactive Molecules from Lignin via Homogeneous and Heterogeneous Catalytic Pathways</span><br><small><em>M. Liua, Z. Sun*, S. Elangovan*</em></small><br><small>Trends in Chemistry, 2023, 5, 713-716.</small>",
+    "title": "Bioactive Molecules from Lignin via Homogeneous and Heterogeneous Catalytic Pathways",
+    "authors": "M. Liua, Z. Sun*, S. Elangovan*",
+    "journal": "Trends in Chemistry, 2023, 5, 713–716",
     "link": ""
   }
 ]
